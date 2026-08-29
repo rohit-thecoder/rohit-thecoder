@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Rohit Kumar, a Computer Science & Engineering undergraduate focused on Machine Learning, Deep Learning, Generative AI, and AI Engineering.<br>I enjoy building practical, end-to-end applications that combine AI models, LLMs, data, and backend systems. I have worked on projects involving RAG pipelines, computer vision, predictive modeling, recommendation systems, and FastAPI-based APIs, with hands-on experience in development and deployment.<br><br><br>
+Hi, I'm Rohit Kumar, a Computer Science & Engineering undergraduate focused on Machine Learning, Deep Learning, Generative AI, and AI Engineering. I enjoy building practical, end-to-end applications that combine AI models, LLMs, data, and backend systems. I have worked on projects involving RAG pipelines, computer vision, predictive modeling, recommendation systems, and FastAPI-based APIs, with hands-on experience in development and deployment.<br><br><br>
 
 
 ## 🌐 Socials:
